@@ -1,0 +1,18 @@
+.container {
+  max-height: 80vh;
+  max-width: 80vh;
+  margin: auto;
+  background-color: white;
+}
+.sect-1 img {
+  height: 250px;
+  width: 250px;
+  margin: auto;
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
