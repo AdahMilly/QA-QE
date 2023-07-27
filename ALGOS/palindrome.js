@@ -9,6 +9,7 @@ function palindrome(str) {
         return false
     }
 }
-palindrome("racecar")
+console.log(palindrome("eleven"))
+console.log(palindrome("eye"))
 
 // time complexity of o(n), we have to go over every character in input string to reverse string
